@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(239, 70, 70);
+    font-weight: bold;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 3em;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 2em;
+}
+
+h3 {
+    color: #ffffff;
+    padding: 30px;
+}
+
+p {
+    font-size: 2em;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.choices-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.snackimage-container {
+    flex: 1;
+    margin: 0 10px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-style: solid;
+    border-color: rgb(159, 50, 50);
+    border-width: 8px;
+    border-radius: 20px;
+
+}
